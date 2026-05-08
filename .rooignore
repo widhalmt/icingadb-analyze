@@ -1,0 +1,3 @@
+# RooCode reads .roo/rules/ directly; importing CLAUDE.md would duplicate
+# the same rule content under a different name.
+CLAUDE.md
